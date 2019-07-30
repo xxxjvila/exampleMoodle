@@ -1,0 +1,55 @@
+Pregunta 1: tipos de variables 
+========
+En un estudio se han medido las siguientes variables:
+
+```{r table-simple, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+require(pander)
+panderOptions('table.split.table', Inf)
+set.caption("My great data")
+my.data <- " # replace the text below with your table data
+  Tables        | Are           | Cool
+  col 3 is      | right-aligned | $1600 
+  col 2 is      | centered      |   $12 
+  zebra stripes | are neat      | $12 "
+df <- read.delim(textConnection(my.data),header=FALSE,sep="|",strip.white=TRUE,stringsAsFactors=FALSE)
+names(df) <- unname(as.list(df[1,])) # put headers on
+df <- df[-1,] # remove first row
+row.names(df)<-NULL
+pander(df, style = 'rmarkdown')
+```
+
+
+What is the seat of the federal authorities in Switzerland (i.e., the de facto capital)?
+
+Answerlist
+----------
+* Basel
+* Bern
+* Geneva
+* Lausanne
+* Zurich
+* St. Gallen
+* Vaduz
+
+
+Solution
+========
+There is no de jure capital but the de facto capital and seat of the federal authorities is Bern.
+
+Answerlist
+----------
+* False
+* True
+* False
+* False
+* False
+* False
+* False
+
+
+Meta-information
+================
+exname: Swiss Capital
+extype: schoice
+exsolution: 0100000
+exshuffle: 5

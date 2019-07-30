@@ -1,0 +1,5215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/exerc0103/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : TipVar01 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio se han medido las siguientes variables:</p>
+<p><br/></p>
+<p>Tabla 1: <strong>Variables recogidas</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>id</th>
+<th align="center">sex</th>
+<th align="center">age</th>
+<th align="center">sit_ocup</th>
+<th align="center">tad</th>
+<th align="center">tas</th>
+<th align="center">htamed</th>
+<th align="center">coltot</th>
+<th align="center">hta</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td align="center">1</td>
+<td align="center">69</td>
+<td align="center">2</td>
+<td align="center">91</td>
+<td align="center">144</td>
+<td align="center">0</td>
+<td align="center">260</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td align="center">1</td>
+<td align="center">58</td>
+<td align="center">1</td>
+<td align="center">87</td>
+<td align="center">136</td>
+<td align="center">0</td>
+<td align="center">226</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td align="center">0</td>
+<td align="center">62</td>
+<td align="center">5</td>
+<td align="center">73</td>
+<td align="center">148</td>
+<td align="center">1</td>
+<td align="center">174</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td align="center">1</td>
+<td align="center">47</td>
+<td align="center">5</td>
+<td align="center">78</td>
+<td align="center">122</td>
+<td align="center">0</td>
+<td align="center">186</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td align="center">0</td>
+<td align="center">39</td>
+<td align="center">2</td>
+<td align="center">77</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">259</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td align="center">1</td>
+<td align="center">43</td>
+<td align="center">3</td>
+<td align="center">71</td>
+<td align="center">118</td>
+<td align="center">0</td>
+<td align="center">250</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td align="center">0</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">70</td>
+<td align="center">115</td>
+<td align="center">0</td>
+<td align="center">202</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td align="center">1</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">236</td>
+<td align="center">1</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">5</td>
+<td align="center">91</td>
+<td align="center">135</td>
+<td align="center">0</td>
+<td align="center">228</td>
+<td align="center">1</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td align="center">0</td>
+<td align="center">45</td>
+<td align="center">1</td>
+<td align="center">75</td>
+<td align="center">125</td>
+<td align="center">0</td>
+<td align="center">251</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td align="center">1</td>
+<td align="center">42</td>
+<td align="center">5</td>
+<td align="center">79</td>
+<td align="center">137</td>
+<td align="center">0</td>
+<td align="center">203</td>
+<td align="center">0</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td align="center">1</td>
+<td align="center">38</td>
+<td align="center">4</td>
+<td align="center">87</td>
+<td align="center">132</td>
+<td align="center">0</td>
+<td align="center">222</td>
+<td align="center">0</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="even">
+<td>.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+<td align="center">.</td>
+</tr>
+<tr class="odd">
+<td>n</td>
+<td align="center">0</td>
+<td align="center">55</td>
+<td align="center">5</td>
+<td align="center">87</td>
+<td align="center">126</td>
+<td align="center">1</td>
+<td align="center">245</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>Donde:</p>
+<ul>
+<li><strong>id</strong>: Número consecutivo identificador del participante</li>
+<li><strong>sex</strong>: Sexo del participante, con los siguientes códigos,
+<ul>
+<li>0 = mujer</li>
+<li>1 = hombre</li>
+</ul></li>
+<li><strong>age</strong>: Edad del participante</li>
+<li><strong>sit_ocup</strong>: Situación laboral, con los siguientes códigos,
+<ul>
+<li>1 = Autónomo</li>
+<li>2 = Trabajador por cuenta ajena</li>
+<li>3 = Empresario</li>
+<li>4 = Parado</li>
+<li>5 = Jubilado</li>
+<li>6 = Otros</li>
+</ul></li>
+<li><strong>tad</strong>: Presión Arterial Diastólica</li>
+<li><strong>tas</strong>: Presión Arterial Sistólica</li>
+<li><strong>htamed</strong>: Toma tratamiento antihipertensivo, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+<li><strong>coltot</strong>: Colesterol Total</li>
+<li><strong>hta</strong>: Hipertensión, con los siguientes códigos,
+<ul>
+<li>0 = No</li>
+<li>1 = Si</li>
+</ul></li>
+</ul>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>En la variable <strong>id</strong>, &quot;n&quot; es un acrónimo que utiliza para indicar el tamaño de muestra. Si el identificador es correlativo, debería tener &quot;n&quot; valores diferentes</p>
+<p>En la variable <strong>sit_ocup</strong> no hay un criterio para decidir un orden (p.e. ¿autónomo va antes o después que parado?)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variables <strong>sex</strong>, <strong>htamed</strong> y <strong>hta</strong> son cualitativas (o categóricas) dicotómicas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>tas</strong> y <strong>tad</strong> son cuantitativas (o numéricas) continuas y ya que miden ``lo mismo'' (presión arterial) en dos situaciones diferentes (en sístole y en diástole) podrían considerarse datos apareados
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+La variable <strong>sit_ocup</strong> es cualitativa (o categórica) ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Las variables <strong>age</strong>, <strong>tas</strong>, <strong>tad</strong> y **coltot son cuantitativas (o numéricas) continuas
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable <strong>id</strong> debería tener ``n'' valores diferentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/exerc0103/Exercise 2</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q2 : TipVar02 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable <strong>ordinal</strong> y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra)</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+De una población, potencialmente se pueden hacer muchas muestras
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una muestra es una parte de la población
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2) Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/exerc0103/Exercise 3</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Falso </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q3 : TipVar03 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p><br/></p>
+<p>En un estudio realizado por Dumville et al,<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.</p>
+<p>Los pacientes se asignaron a 3 grupos de intervención:</p>
+<ul>
+<li>Loose larvae (Larvas sueltas)</li>
+<li>Bagged larvae (Larvas empaquetadas)</li>
+<li>Hygrogel (Tratamiento convencional)</li>
+</ul>
+<p>Las características de los participantes, según los 3 grupos y total (<em>overall</em>), se muestra en la siguiente tabla extraída del artículo:</p>
+<div class="figure">
+<img src="/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png" width="650" />
+
+</div>
+<p><br/></p>
+<p>Observe que describen las siguientes características:</p>
+<ul>
+<li><p>Sexo (<em>men</em>)</p></li>
+<li><p>Edad en años (<em>Mean (SD) age (years)</em>)</p></li>
+<li>Cm² del área de la úlcera (<em>Area of ulcer (cm²</em>) en dos categorías
+<ul>
+<li>≤ 5</li>
+<li>&gt; 5</li>
+</ul></li>
+<li><p>Cm² del área de la úlcera medido cuantitativamente (<em>Median (range) area of ulcer (cm²)</em>)</p></li>
+<li>Meses de evolución de la úlcera (<em>Duration of ulcer (months)</em>)
+<ul>
+<li>≤ 6</li>
+<li>&gt; 6</li>
+</ul></li>
+<li><p>Meses de evolución de la úlcera medido cuantitativamentes (<em>Duration of ulcer (months)</em>)</p></li>
+<li>Tratamiento aplicado a la presión del Índice Tobillo Brazo (<em>ABPI, treatment</em>) en tres categorías:
+<ul>
+<li>Valores ≥ 0.8 tratados con alta compresión (<em>high compression</em>)</li>
+<li>Valores ≥ 0.8 tratados con baja o sin compresión (<em>lower or no compression</em>)</li>
+<li>Valores entre 0.6-0.8</li>
+</ul></li>
+</ul>
+<p><br/></p>
+<p>¿Cuál de las siguientes respuestas es <strong>FALSA</strong>?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<p>Los años de edad es una variable <strong>cuantitativa</strong> (numérica).</p>
+<p>La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además <strong>ordinal</strong>, pero es <strong>cualitativa</strong>.</p>
+<ol type = "a">
+<li> Correcto </li>
+<li> Falso </li>
+<li> Correcto </li>
+<li> Correcto </li>
+<li> Correcto </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>true</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Cuando miden los &quot;meses de evolución de la úlcera&quot; como ≤6 y &gt;6, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Los años de edad es una variable cualitativa ordinal
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Falso
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el sexo, es una variable dicotómica
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Los valores de &quot;meses de evolución de la úlcera&quot; los presentan cualitativamente y cuantitativamente
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+Correcto
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

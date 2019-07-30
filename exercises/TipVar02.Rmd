@@ -1,0 +1,36 @@
+Question
+========
+
+<br/>
+
+¿Cuál de las siguientes respuestas es **FALSA**?
+
+Answerlist
+----------
+* Una variable que responda a la pregunta ¿En general, usted diría que su salud es?: 1) Excelente; 2)  Muy buena; 3) Buena; 4) Regular; 5) Mala, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+* Una variable que recoja el Estado Civil con las siguientes categorías: 1) casado / emparejado, 2) separado / divorciado; 3) viudo; 4) soltero / no emparejado; 5) otros, es una variable cualitativa (categórica), no ordinal y los valores son mutuamente excluyentes
+* Una muestra es una parte de la población
+* De una población, potencialmente se pueden hacer muchas muestras
+* Cuando la muestra tiene características muy diferentes de la población, la muestra esta sesgada
+
+Solution
+========
+Excelente, Muy buena, Buena, Regular y Mala son categorías que pueden ordenarse, por lo tanto es una variable **ordinal** y los valores son mutuamente excluyentes ya que, por ejemplo, no se puede responder Excelente y Regular a la vez (o se está en una categoría o en otra) 
+
+
+
+Answerlist
+----------
+* Falso
+* Correcto
+* Correcto
+* Correcto
+* Correcto
+
+
+Meta-information
+================
+exname: Tipo de variables 2
+extype: schoice
+exsolution: 10000
+exshuffle: 5

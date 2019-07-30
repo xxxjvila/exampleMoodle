@@ -1,0 +1,81 @@
+Question
+========
+
+<br/>
+
+En un estudio realizado por Dumville et al,[^1] los investigadores presentan los resultados de un ensayo clínico en el que analizaban el uso de larvas en el tratamiento de las úlceras venosas en las piernas.
+
+[^1]:Dumville J, Worthy G, Bland M, Cullum N, Dowson C, Iglesias C, Mitchell J, Nelson A, O Soares M, Torgerson D. Larval therapy for leg ulcers (VenUS II): randomised controlled trial. BMJ 2009;338:b773
+doi:10.1136/bmj.b773
+
+Los pacientes se asignaron a 3 grupos de intervención:
+
+  * Loose larvae (Larvas sueltas)
+  * Bagged larvae (Larvas empaquetadas)
+  * Hygrogel (Tratamiento convencional)
+
+Las características de los participantes, según los 3 grupos y total (*overall*), se muestra en la siguiente tabla extraída del artículo:
+
+![](/Users/jvila/Dropbox/euit/common/exerc/fig/larval.png){width=650px}
+
+<br/>
+
+Observe que describen las siguientes características:
+
+* Sexo (*men*)
+
+* Edad en años (*Mean (SD) age (years)*)
+
+* Cm&sup2; del área de la úlcera (*Area of ulcer (cm&sup2;*) en dos categorías
+      * &le; 5
+      * &gt; 5
+* Cm&sup2; del área de la úlcera medido cuantitativamente (*Median (range) area of ulcer (cm&sup2;)*)
+
+* Meses de evolución de la úlcera (*Duration of ulcer (months)*) 
+    * &le; 6
+    * &gt; 6
+
+* Meses de evolución de la úlcera medido cuantitativamentes (*Duration of ulcer (months)*) 
+
+* Tratamiento aplicado a la presión del Índice Tobillo Brazo (*ABPI, treatment*) en tres categorías:
+    * Valores &ge; 0.8 tratados con alta compresión (*high compression*)
+    * Valores &ge; 0.8 tratados con baja o sin compresión (*lower or no compression*)
+    * Valores entre 0.6-0.8
+
+
+<br/>
+
+¿Cuál de las siguientes respuestas es **FALSA**?
+
+Answerlist
+----------
+* Los años de edad es una variable cualitativa ordinal
+* Los valores de "meses de evolución de la úlcera" los presentan cualitativamente y cuantitativamente
+* Cuando miden los "meses de evolución de la úlcera" como  &le;6 y &gt;6, es una variable dicotómica
+* La variable que mide el sexo, es una variable dicotómica
+* La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa
+
+Solution
+========
+
+Los años de edad es una variable **cuantitativa** (numérica).
+
+La variable que mide el Tratamiento aplicado a la presión del Índice Tobillo Brazo es una variable cualitativa. Como que las categorías se pueden poner por orden es además **ordinal**, pero es **cualitativa**.
+
+
+
+Answerlist
+----------
+* Falso
+* Correcto
+* Correcto
+* Correcto
+* Correcto
+
+
+Meta-information
+================
+exname: Tipo de variables 3
+extype: schoice
+exsolution: 10000
+exshuffle: 5
